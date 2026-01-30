@@ -4,7 +4,7 @@ Wondering how hard your next class might be? Did other students think CS162 was 
 
 The [OSU eCampus subreddit](https://www.reddit.com/r/OSUOnlineCS/) collects course reviews from real students into [this spreadsheet](https://docs.google.com/spreadsheets/d/1MFBGJbOXVjtThgj5b6K0rv9xdsC1M2GQ0pJVB-8YCeU/edit#gid=2042942971), but the spreadsheet is large and hard to navigate. This app lets you view individual course reviews and aggregates difficulty ratings and time spent.
 
-This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 4.2.2.
+This project was generated with the [Angular Full-Stack Generator](https://github.com/chongzixuan-ai/osu-cs-class-explorer) version 4.2.2.
 
 
 ![OSU Course Explorer - March 2018](screenshots/osu-cs-course-explorer.com_march_2018.png "Screenshot of app taken March 2018")
